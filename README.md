@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="image_12.png" width="100%" alt="Getenet Woldu Cloud IAM & Security Engineering Banner" />
+</p>
+
 # Getenet Woldu
 ### Cloud Security & Identity Engineering | Multi-Cloud IAM | Identity Governance & Administration
 
